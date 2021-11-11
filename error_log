@@ -1,0 +1,2 @@
+[09-Apr-2018 00:57:41 UTC] PHP Fatal error:  Call to a member function row() on a non-object in /home/u0603592/public_html/office/application/views/admin/rugilaba.php on line 92
+[09-Apr-2018 02:09:42 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/u0603592/public_html/office/application/views/admin/monitorview.php on line 156
